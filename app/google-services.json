@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1079142620110",
+    "project_id": "baseview-48fab",
+    "storage_bucket": "baseview-48fab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079142620110:android:a44888f5e57fb9ea72299f",
+        "android_client_info": {
+          "package_name": "com.bibekanandan892.baseview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079142620110-gtd57mtm7jfj2pc2vov3p6jcb92rn6bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jPN4W_S8eSHNZnbsnwZx61S8JIE-9OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079142620110-gtd57mtm7jfj2pc2vov3p6jcb92rn6bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079142620110:android:6c5498a639edf34172299f",
+        "android_client_info": {
+          "package_name": "com.example.workmaneger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079142620110-gtd57mtm7jfj2pc2vov3p6jcb92rn6bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-jPN4W_S8eSHNZnbsnwZx61S8JIE-9OM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079142620110-gtd57mtm7jfj2pc2vov3p6jcb92rn6bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
